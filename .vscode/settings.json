@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "~/Documents/workspace/projects/fox/sports-data/venv/lib/python3.8/site-packages",
+        "./tool",
+        "./model",
+        "./service",
+        "./util"
+    ]
+}

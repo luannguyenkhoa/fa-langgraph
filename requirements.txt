@@ -1,0 +1,17 @@
+langchain==0.1.8
+langchain-openai==0.0.8
+langchain-community==0.0.21
+langgraph==0.0.28
+streamlit==1.31.1
+psycopg2-binary==2.9.9
+python-dotenv==1.0.1
+yfinance==0.2.37
+gptcache==0.1.43
+amplitude-analytics==1.1.4
+chromadb==0.4.24
+pypdf==4.1.0
+numexpr==2.9.0
+sqlparse==0.4.4
+bitsandbytes==0.42.0
+accelerate==0.27.2
+pysqlite3-binary # need this package for Streamlit deployment, remove it if using macos on local
